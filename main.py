@@ -14,4 +14,5 @@ def sample_function(e):
     display(f'   Name: {name}', target='output1')
     display(f'   Age: {age}', target='output2')
     display(f'   School: {school}', target='output3')
-    display(f'   {name} is {age} years old was a student at \'{school}\', now currently studying at O.B. Montessori \\ Greenhills', target='output4')
+
+    display(f'   {name} is {age} years old who was a student at \'{school}\', now currently studying at O.B. Montessori \\ Greenhills', target='output4')
